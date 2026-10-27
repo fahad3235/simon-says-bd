@@ -1,0 +1,8 @@
+# Simon Says BD — nothing to build, no secrets, no local databases.
+# Kept for hygiene: OS/editor droppings only.
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
